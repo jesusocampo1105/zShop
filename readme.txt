@@ -7,6 +7,7 @@ En el proyecto realizamos el orden del header y se dejaron los mismos estilos he
 (Header)
 
 
+
 Seguido debemos dejar centrada la imagen de portada y una imagen enfocada de fondo de la pagina que contraste muy bien con el contenido:
 
 (Portada y background)
