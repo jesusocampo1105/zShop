@@ -21,3 +21,17 @@ Por ultimo dejamos un footer con los mismos colores, se modificaron algunos colo
 
 (Footer)
 
+
+En la siguiente pagina de la landing, dejamos la misma parte de About, en este lugar debemos centrar la imagen de portada, dejar footer como la pagina principal y dejar fondo como paina principal:
+
+(About)
+
+
+Se continua con el Blog, alli agregamos 3 imagenes de acuerdo a la informacion que se quiere entregar y dejar un buen diseño junto con el texto que se mostrara, tendra el mismo header que la pagina principal:
+
+(Blog)
+
+
+Y por ultimo vamos a mejorar la pagina de contacts, el formulario quedara con una mejor estructura y mismo footer de la pagina principal:
+
+(Contacts)
