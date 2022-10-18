@@ -35,3 +35,6 @@ Se continua con el Blog, alli agregamos 3 imagenes de acuerdo a la informacion q
 Y por ultimo vamos a mejorar la pagina de contacts, el formulario quedara con una mejor estructura y mismo footer de la pagina principal:
 
 (Contacts)
+
+
+Para la solución de estilos se utilizaron las funciones de flexbox y para unicamente las 6 secciones de la pagina principal, usamos grid para un acomodo mas eficaz y sencillo, para poder darle forma a cada una de las secciones, imagenes y formar que tenia la pagina anterior, agregamos selectores nuevos y re acomodamos en el archivo de estilos tal cual como se encuentra solicitado por el cliente. para clases dadas tambien fueron en ingles para que tomara el mismo estilo y cualquier desarrollador que entre al proyecto no tenga inconvenientes al identificarlos.
